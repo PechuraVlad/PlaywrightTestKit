@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vscode/
+npm-debug.log
+yarn-error.log
+
+*.js
+*.map
+
+.idea/
+.vscode/

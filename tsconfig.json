@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "ES2018",
+      "module": "CommonJS",
+      "strict": true,
+      "outDir": "."
+    },
+    "include": ["*.ts"], // Включити всі файли з розширенням .ts
+    "exclude": ["node_modules"]
+  }
