@@ -6,6 +6,7 @@ This testing framework is designed to automate the testing of the WebTestKit web
 
 Tests the raised environment at:
 - https://dashboard.render.com/
+
 Where, respectively, there are three pages: 
 - https://webtestkit.onrender.com/login
 - https://webtestkit.onrender.com/protected 
